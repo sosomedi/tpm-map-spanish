@@ -1,4 +1,4 @@
-# TPM Awarded Plants Map 🗺️
+# TPM Awarded Plants Map.
 
 An interactive web-based map displaying plants and companies awarded with Total Productive Maintenance (TPM) worldwide.
 
@@ -6,7 +6,7 @@ An interactive web-based map displaying plants and companies awarded with Total 
 
 ---
 
-## ⚠️ Status & Data Disclaimers
+## Status & Data Disclaimers
 
 This project is a **work in progress** and subject to continuous updates and refinements. Please keep the following in mind:
 
